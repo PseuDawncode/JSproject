@@ -6,19 +6,23 @@ let favoriteColor = "Emerald Green";
 
 console.log(`Name: ${name}, Age: ${age}, Favorite Color: ${favoriteColor}`);
 
+//Addtion
 let houses = 48;
 houses = houses + 5;
 console.log(`The total of houses are: ${houses}`);
 
+//Subtraction
 let apples = 10;
 apples = apples - 1;
 console.log(`Mary gave 1 apple to David. How many apples left to Mary? ${apples} apples`);
 
+//Multiplication
 let x = 15;
 let y = 4;
 let a = x * y;
 console.log(`a is equals to ${a}`);
 
+//Division
 let cats = 8;
 let playpen = 2;
 let cuteness = cats / playpen;
