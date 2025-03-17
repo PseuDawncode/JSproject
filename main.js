@@ -14,16 +14,16 @@ console.log(`The total of houses are: ${houses}`);
 //Subtraction
 let apples = 10;
 apples = apples - 1;
-console.log(`Mary gave 1 apple to David. How many apples left to Mary? ${apples} apples`);
+console.log(`Mary gave 1 apple to David. How many apples does she have left? ${apples} apples`);
 
 //Multiplication
 let x = 15;
 let y = 4;
 let a = x * y;
-console.log(`a is equals to ${a}`);
+console.log(`a equals to ${a}`);
 
 //Division
 let cats = 8;
 let playpen = 2;
 let cuteness = cats / playpen;
-console.log(`I have 8 cats and have 2 playpen. How many cats in each playpen? ${cuteness} cats`);
+console.log(`I have 8 cats and have 2 playpen. How many cats do I have per playpen? ${cuteness} cats`);
